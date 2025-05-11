@@ -9,4 +9,8 @@ A responsive tourism website built using **HTML** and **CSS**. This project show
 - Multiple pages: Home, About, Contact
 - Image gallery of travel locations
 
+## 📦 Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MeghanaReddy777/torism-website.git
